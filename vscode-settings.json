@@ -1,0 +1,20 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "window.zoomLevel": -2,
+    "workbench.colorTheme": "Ascetic Dark",
+    "workbench.sideBar.location": "right",
+    "editor.fontSize": 30,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.folding": false,
+    "editor.lineNumbers": "off",
+    "editor.renderLineHighlight": "none",
+    "editor.renderIndentGuides": false,
+    "editor.smoothScrolling": true,
+    "editor.autoClosingBrackets": false,
+    "zenMode.fullScreen": true,
+    "zenMode.hideActivityBar": true,
+    "zenMode.hideStatusBar": true,
+    "zenMode.hideTabs": true,
+    "zenMode.restore": false
+}
