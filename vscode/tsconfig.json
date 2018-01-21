@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    //"declaration": false,
+    //"declarationDir": "./bin",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "alwaysStrict": true,
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "noLib": false,
+    "noEmit": false,
+    "jsx": "react",
+    "outDir": "./bin",
+    "lib": ["es2015", "es2016", "dom"],
+    "inlineSources": true,
+    "inlineSourceMap": true,
+    "watch": true
+  },
+  "exclude": [
+    "node_modules",
+    "bin"
+  ]
+}
