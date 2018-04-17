@@ -17,6 +17,7 @@
     "zenMode.hideStatusBar": true,
     "zenMode.hideTabs": true,
     "zenMode.restore": false,
+    "zenMode.centerLayout": false,
     "markdown.preview.fontSize": 36,
     "terminal.integrated.fontSize": 16
 }
