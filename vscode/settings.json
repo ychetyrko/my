@@ -1,6 +1,7 @@
 {
     "window.menuBarVisibility": "toggle",
     "window.zoomLevel": -2,
+    "window.titleBarStyle": "custom",
     "workbench.colorTheme": "Ascetic Dark",
     "workbench.sideBar.location": "right",
     "editor.fontSize": 30,
@@ -19,5 +20,9 @@
     "zenMode.restore": false,
     "zenMode.centerLayout": false,
     "markdown.preview.fontSize": 36,
-    "terminal.integrated.fontSize": 16
+    "terminal.integrated.fontSize": 16,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "dotnet-test-explorer.autoExpandTree": true
 }
