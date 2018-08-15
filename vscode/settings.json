@@ -21,6 +21,10 @@
     "zenMode.centerLayout": false,
     "markdown.preview.fontSize": 36,
     "terminal.integrated.fontSize": 16,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#1E1E1E",
+        "statusBar.foreground": "#C2C2C2"
+    },
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
     "typescript.updateImportsOnFileMove.enabled": "never",
