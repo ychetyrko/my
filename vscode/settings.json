@@ -13,6 +13,7 @@
     "editor.renderIndentGuides": false,
     "editor.smoothScrolling": true,
     "editor.autoClosingBrackets": false,
+    "editor.codeLens": false,
     "zenMode.fullScreen": true,
     "zenMode.hideActivityBar": true,
     "zenMode.hideStatusBar": true,
@@ -25,6 +26,7 @@
         "statusBar.background": "#1E1E1E",
         "statusBar.foreground": "#C2C2C2"
     },
+    "git.autorefresh": true,
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
     "typescript.updateImportsOnFileMove.enabled": "never",
