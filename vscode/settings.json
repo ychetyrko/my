@@ -4,6 +4,7 @@
     "window.titleBarStyle": "custom",
     "workbench.colorTheme": "Ascetic Dark",
     "workbench.sideBar.location": "right",
+    "editor.fontFamily": "Consolas, monospace, 'Courier New'",
     "editor.fontSize": 30,
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
