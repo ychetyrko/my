@@ -4,7 +4,6 @@
     "window.titleBarStyle": "custom",
     "workbench.colorTheme": "Ascetic Dark",
     "workbench.sideBar.location": "right",
-    "workbench.startupEditor": "none",
     "editor.fontFamily": "Consolas, monospace, 'Courier New'",
     "editor.fontSize": 30,
     "editor.tabSize": 2,
@@ -32,5 +31,8 @@
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
     "typescript.updateImportsOnFileMove.enabled": "never",
-    "dotnet-test-explorer.autoExpandTree": true
+    "typescript.autoClosingTags": false,
+    "dotnet-test-explorer.autoExpandTree": true,
+    "html.autoClosingTags": false,
+    "javascript.autoClosingTags": false,
 }
