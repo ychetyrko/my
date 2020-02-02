@@ -1,15 +1,15 @@
 // Place your key bindings in this file to overwrite the defaultsauto[]
 [
   {
-    "key": "ctrl+shift+s",
+    "key": "alt+shift+s",
     "command": "workbench.action.files.saveAll"
   },
-  {
+  { 
     "key": "ctrl+k s",
     "command": "-workbench.action.files.saveAll"
   },
   {
-    "key": "ctrl+shift+f11",
+    "key": "alt+shift+f11",
     "command": "workbench.action.toggleZenMode"
   }
 ]
