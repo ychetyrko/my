@@ -4,7 +4,7 @@
     "window.titleBarStyle": "custom",
     "workbench.colorTheme": "Nezaboodka",
     "workbench.sideBar.location": "right",
-    "editor.fontFamily": "Consolas, monospace, 'Courier New'",
+    "editor.fontFamily": "Consolas, JetBrains Mono, monospace, 'Courier New'",
     "editor.fontSize": 26,
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
@@ -25,6 +25,7 @@
     "zenMode.centerLayout": false,
     "markdown.preview.fontSize": 32,
     "terminal.integrated.fontSize": 18,
+    "terminal.integrated.rendererType": "experimentalWebgl",
     "workbench.startupEditor": "none",
     "git.autorefresh": true,
     "git.confirmSync": false,
@@ -34,8 +35,8 @@
     "javascript.autoClosingTags": false,
     "html.autoClosingTags": false,
     "dotnet-test-explorer.autoExpandTree": true,
-    "terminal.integrated.rendererType": "dom",
     "breadcrumbs.enabled": true,
     "csharp.referencesCodeLens.enabled": false,
-    "C_Cpp.updateChannel": "Insiders"
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.largeFileOptimizations": false,
 }
