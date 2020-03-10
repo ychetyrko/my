@@ -1,11 +1,11 @@
 {
     "window.menuBarVisibility": "toggle",
-    "window.zoomLevel": -1,
+    // "window.zoomLevel": -1,
     "window.titleBarStyle": "custom",
     "workbench.colorTheme": "Nezaboodka",
     "workbench.sideBar.location": "right",
     "editor.fontFamily": "Consolas, JetBrains Mono, monospace, 'Courier New'",
-    "editor.fontSize": 26,
+    "editor.fontSize": 21,
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
     "editor.folding": false,
@@ -15,6 +15,7 @@
     "editor.smoothScrolling": true,
     "editor.autoClosingBrackets": "never",
     "editor.codeLens": true,
+    "editor.semanticHighlighting.enabled": false,
     "workbench.tree.renderIndentGuides": "onHover",
     "workbench.tree.indent": 12,
     "zenMode.fullScreen": true,
@@ -39,4 +40,7 @@
     "csharp.referencesCodeLens.enabled": false,
     "C_Cpp.updateChannel": "Insiders",
     "editor.largeFileOptimizations": false,
+    "files.exclude": {
+        "**/node_modules": true
+    }
 }
