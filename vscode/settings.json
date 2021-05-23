@@ -1,9 +1,12 @@
 {
     "window.menuBarVisibility": "toggle",
     "window.titleBarStyle": "custom",
+    "customizeUI.titleBar": "inline",
+    "customizeUI.activityBar": "wide",
+    "workbench.activityBar.visible": true,
     "workbench.colorTheme": "Nezaboodka",
-    "workbench.sideBar.location": "right",
-    "editor.fontFamily": "Consolas, JetBrains Mono, monospace, 'Courier New'",
+    "workbench.sideBar.location": "left",
+    "editor.fontFamily": "Consolas, JetBrains Mono, Ubuntu Mono, monospace, 'Courier New'",
     "editor.fontSize": 22,
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
@@ -44,5 +47,16 @@
     "editor.largeFileOptimizations": false,
     "files.exclude": {
         "**/node_modules": true
-    }
+    },
+    "debug.console.collapseIdenticalLines": false,
+    "extensions.ignoreRecommendations": false,
+    "window.zoomLevel": 0,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "gitlens.codeLens.enabled": false,
+    "cSpell.userWords": [
+        "Chetyrko",
+        "Yury",
+        "ychetyrko"
+    ],
+    "diffEditor.renderSideBySide": true,
 }
