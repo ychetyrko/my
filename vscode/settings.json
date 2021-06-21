@@ -59,4 +59,5 @@
         "ychetyrko"
     ],
     "diffEditor.renderSideBySide": true,
+    "debug.console.wordWrap": false,
 }
